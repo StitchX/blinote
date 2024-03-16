@@ -3,7 +3,7 @@ package a1introduce;
 /**
  * @author Eva   Email:
  * @Description  命名规则
- * @data 2023/1/6 10:46
+ * @Date 2023/1/6 10:46
  */
 public class CName {
     /*
