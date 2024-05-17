@@ -7,7 +7,7 @@ package b14interface;
  */
 public class ZInterview extends B implements A{
     public static void main(String[] args) {
-//        new Interview().px();
+//        new ZInterview().px();
         Ball b = Ball.ball;
         b.play();
     }
