@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64e3e396-ddc7-498d-b3e8-c0d32d457e6d" name="Changes" comment="复习到面向对象了" />
+    <list default="true" id="64e3e396-ddc7-498d-b3e8-c0d32d457e6d" name="Changes" comment="复习到接口了" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +30,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Downloaded.Files.Path.Enabled": "false",
@@ -53,8 +54,31 @@
     "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "fileTemplates",
     "vue.rearranger.settings.migration": "true"
+=======
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/QMacroQA/Desktop/code/java/note&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/19162/Desktop/blinote/ajava/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+>>>>>>> b4fcf13c42d183a6c3c1ee1e52f6293ac7c3ab40
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\19162\Desktop\blinote\ajava\src\b3encapsulation" />
@@ -66,13 +90,26 @@
       <recent name="C:\Users\19162\Desktop\blinote\ajava\src\b4constructor" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ZExercise01 (1)">
-    <configuration name="CArrayException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="a8array.CArrayException" />
+  <component name="RunManager" selected="Application.GThrow">
+    <configuration name="Djava8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="b14interface.Djava8" />
       <module name="ajava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="a8array.*" />
+          <option name="PATTERN" value="b14interface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GThrow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="c1exception.GThrow" />
+      <module name="ajava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="c1exception.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ZExercise01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="b2method.ZExercise01" />
+    <configuration name="ZInterview" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="b14interface.ZInterview" />
       <module name="ajava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="b2method.*" />
+          <option name="PATTERN" value="b14interface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,39 +143,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ZExercise02 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="b2method.ZExercise02" />
+    <configuration name="BException.demo03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ajava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="b2method.*" />
+          <option name="PATTERN" value="c1exception.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ZExercise02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="b2method.ZExercise02" />
-      <module name="ajava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="b2method.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="PACKAGE_NAME" value="c1exception" />
+      <option name="MAIN_CLASS_NAME" value="c1exception.BException" />
+      <option name="METHOD_NAME" value="demo03" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GThrow" />
+        <item itemvalue="JUnit.BException.demo03" />
+        <item itemvalue="Application.ZInterview" />
+        <item itemvalue="Application.Djava8" />
         <item itemvalue="Application.ZExercise01 (1)" />
-        <item itemvalue="Application.ZExercise01" />
-        <item itemvalue="Application.ZExercise02" />
-        <item itemvalue="Application.ZExercise02 (1)" />
-        <item itemvalue="Application.CArrayException" />
       </list>
     </recent_temporary>
   </component>
@@ -152,8 +179,16 @@
       <updated>1710589152086</updated>
       <workItem from="1710589153888" duration="7470000" />
       <workItem from="1710663365962" duration="9753000" />
+<<<<<<< HEAD
       <workItem from="1715686403536" duration="115000" />
       <workItem from="1716126548880" duration="185000" />
+=======
+      <workItem from="1715742037668" duration="3560000" />
+      <workItem from="1715824133877" duration="1947000" />
+      <workItem from="1715910902383" duration="3925000" />
+      <workItem from="1715937491440" duration="27000" />
+      <workItem from="1715937566903" duration="1595000" />
+>>>>>>> b4fcf13c42d183a6c3c1ee1e52f6293ac7c3ab40
     </task>
     <task id="LOCAL-00001" summary="fuxiyixia">
       <option name="closed" value="true" />
