@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ajava.iml" filepath="$PROJECT_DIR$/ajava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/badvancedstage/badvancedstage.iml" filepath="$PROJECT_DIR$/badvancedstage/badvancedstage.iml" />
     </modules>
   </component>
 </project>
