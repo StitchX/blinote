@@ -52,7 +52,7 @@ synchronized的作用：保证了原子性、可见性、有序性
 synchronized是在软件层面依赖于JVM，而j.u.c下的lock是依赖于硬件层面。
 Synchronized底层原理分为2中：对象锁和方法锁，即修饰对象和修饰方法
 
-ynchronized底层语义原理
+synchronized底层语义原理
     简单理解：            -csdn 网站一
     1、synchronized 修饰代码块-指定锁对象：
         每个对象在存储时都有对应的锁状态字段，使用了synchronized 关键字修饰后，对应的代码块在底层执行时，会拿锁作用的对象头部的锁状态标识，
