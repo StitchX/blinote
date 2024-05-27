@@ -25,11 +25,16 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 1
+}]]></component>
   <component name="ProjectId" id="2giJqi4CQd4x2xqiESqo5TN4yPK" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
@@ -55,48 +60,118 @@
   <component name="RunManager" selected="Application.QThreadPool">
     <configuration name="NCommunication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="d1thread.NCommunication" />
+=======
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/19162/Desktop/gitJava/java/note",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.general",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.ASystem.test01 (1)">
+    <configuration name="AComparable.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+>>>>>>> 5fdd4bba5d68f7ddf32814ad2f6610f3d9e800ca
       <module name="badvancedstage" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="d1thread.*" />
+          <option name="PATTERN" value="d5comparable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="d5comparable" />
+      <option name="MAIN_CLASS_NAME" value="d5comparable.AComparable" />
+      <option name="METHOD_NAME" value="test02" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QThreadPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="d1thread.QThreadPool" />
+    <configuration name="ASystem.test01 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="badvancedstage" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="d1thread.*" />
+          <option name="PATTERN" value="d6SysMathBig.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="d6SysMathBig" />
+      <option name="MAIN_CLASS_NAME" value="d6SysMathBig.ASystem" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ZExercise01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="c1exception.ZExercise01" />
-      <module name="ajava" />
+    <configuration name="DCalendar.test04" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="badvancedstage" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="c1exception.*" />
+          <option name="PATTERN" value="d3date.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="d3date" />
+      <option name="MAIN_CLASS_NAME" value="d3date.DCalendar" />
+      <option name="METHOD_NAME" value="test04" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ELocalDataTime.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="badvancedstage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="d3date.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="d3date" />
+      <option name="MAIN_CLASS_NAME" value="d3date.ELocalDataTime" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FInstant.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="badvancedstage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="d3date.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="d3date" />
+      <option name="MAIN_CLASS_NAME" value="d3date.FInstant" />
+      <option name="METHOD_NAME" value="test02" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.QThreadPool" />
-        <item itemvalue="Application.NCommunication" />
-        <item itemvalue="Application.ZExercise01" />
+        <item itemvalue="JUnit.ASystem.test01 (1)" />
+        <item itemvalue="JUnit.AComparable.test02" />
+        <item itemvalue="JUnit.FInstant.test02" />
+        <item itemvalue="JUnit.ELocalDataTime.test01" />
+        <item itemvalue="JUnit.DCalendar.test04" />
       </list>
     </recent_temporary>
   </component>
@@ -110,7 +185,11 @@
       <updated>1716127507200</updated>
       <workItem from="1716127508142" duration="1536000" />
       <workItem from="1716174657493" duration="8821000" />
+<<<<<<< HEAD
       <workItem from="1716446897063" duration="58000" />
+=======
+      <workItem from="1716709758671" duration="7748000" />
+>>>>>>> 5fdd4bba5d68f7ddf32814ad2f6610f3d9e800ca
     </task>
     <servers />
   </component>
