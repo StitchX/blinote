@@ -13,23 +13,46 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="AnnotationType" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2h4jxypG5zFIZuqconf916YJm8R" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/QMacroQA/Desktop/blinote/ajava/badvancedstage/src",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\QMacroQA\Desktop\blinote\ajava\badvancedstage\src" />
+      <recent name="C:\Users\QMacroQA\Desktop\blinote\ajava\badvancedstage" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.AIntroduce">
     <configuration name="AIntroduce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="d7enum.AIntroduce" />
+      <option name="MAIN_CLASS_NAME" value="d12netCode.AIntroduce" />
       <module name="badvancedstage" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="d7enum.*" />
+          <option name="PATTERN" value="d12netCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -37,9 +60,77 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EExtend.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="badvancedstage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="d10generic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="d10generic" />
+      <option name="MAIN_CLASS_NAME" value="d10generic.EExtend" />
+      <option name="METHOD_NAME" value="test03" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FOtherStream.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="badvancedstage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="d11IO.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="d11IO" />
+      <option name="MAIN_CLASS_NAME" value="d11IO.FOtherStream" />
+      <option name="METHOD_NAME" value="test02" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FOtherStream.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="badvancedstage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="d11IO.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="d11IO" />
+      <option name="MAIN_CLASS_NAME" value="d11IO.FOtherStream" />
+      <option name="METHOD_NAME" value="test03" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HRandom.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="badvancedstage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="d11IO.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="d11IO" />
+      <option name="MAIN_CLASS_NAME" value="d11IO.HRandom" />
+      <option name="METHOD_NAME" value="test03" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.AIntroduce" />
+        <item itemvalue="JUnit.HRandom.test03" />
+        <item itemvalue="JUnit.FOtherStream.test03" />
+        <item itemvalue="JUnit.FOtherStream.test02" />
+        <item itemvalue="JUnit.EExtend.test03" />
       </list>
     </recent_temporary>
   </component>
@@ -52,6 +143,9 @@
       <option name="presentableId" value="Default" />
       <updated>1716797520161</updated>
       <workItem from="1716797521152" duration="4559000" />
+      <workItem from="1716860497953" duration="813000" />
+      <workItem from="1717465742341" duration="12983000" />
+      <workItem from="1717489085102" duration="5154000" />
     </task>
     <servers />
   </component>
