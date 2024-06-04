@@ -13,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="AnnotationType" />
         <option value="Interface" />
+        <option value="AnnotationType" />
         <option value="Class" />
       </list>
     </option>
@@ -22,6 +22,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 1
+}]]></component>
   <component name="ProjectId" id="2h4jxypG5zFIZuqconf916YJm8R" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -32,7 +36,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/QMacroQA/Desktop/blinote/ajava/badvancedstage/src",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/19162/Desktop/gitJava/java/note",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -46,79 +51,82 @@
       <recent name="C:\Users\QMacroQA\Desktop\blinote\ajava\badvancedstage" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AIntroduce">
-    <configuration name="AIntroduce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="d12netCode.AIntroduce" />
+  <component name="RunManager" selected="JUnit.DFieldTest.test02">
+    <configuration name="AIntroduce.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="badvancedstage" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="d12netCode.*" />
+          <option name="PATTERN" value="d13reflection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EExtend.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="badvancedstage" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="d10generic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="d10generic" />
-      <option name="MAIN_CLASS_NAME" value="d10generic.EExtend" />
-      <option name="METHOD_NAME" value="test03" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FOtherStream.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="badvancedstage" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="d11IO.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="d11IO" />
-      <option name="MAIN_CLASS_NAME" value="d11IO.FOtherStream" />
+      <option name="PACKAGE_NAME" value="d13reflection" />
+      <option name="MAIN_CLASS_NAME" value="d13reflection.AIntroduce" />
       <option name="METHOD_NAME" value="test02" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FOtherStream.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AIntroduce.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="badvancedstage" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="d11IO.*" />
+          <option name="PATTERN" value="d13reflection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="d11IO" />
-      <option name="MAIN_CLASS_NAME" value="d11IO.FOtherStream" />
+      <option name="PACKAGE_NAME" value="d13reflection" />
+      <option name="MAIN_CLASS_NAME" value="d13reflection.AIntroduce" />
       <option name="METHOD_NAME" value="test03" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HRandom.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BClassLoader.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="badvancedstage" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="d11IO.*" />
+          <option name="PATTERN" value="d13reflection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="d11IO" />
-      <option name="MAIN_CLASS_NAME" value="d11IO.HRandom" />
-      <option name="METHOD_NAME" value="test03" />
+      <option name="PACKAGE_NAME" value="d13reflection" />
+      <option name="MAIN_CLASS_NAME" value="d13reflection.BClassLoader" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DFieldTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="badvancedstage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="d13reflection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="d13reflection" />
+      <option name="MAIN_CLASS_NAME" value="d13reflection.DFieldTest" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DFieldTest.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="badvancedstage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="d13reflection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="d13reflection" />
+      <option name="MAIN_CLASS_NAME" value="d13reflection.DFieldTest" />
+      <option name="METHOD_NAME" value="test02" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -126,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AIntroduce" />
-        <item itemvalue="JUnit.HRandom.test03" />
-        <item itemvalue="JUnit.FOtherStream.test03" />
-        <item itemvalue="JUnit.FOtherStream.test02" />
-        <item itemvalue="JUnit.EExtend.test03" />
+        <item itemvalue="JUnit.DFieldTest.test02" />
+        <item itemvalue="JUnit.DFieldTest.test01" />
+        <item itemvalue="JUnit.BClassLoader.test01" />
+        <item itemvalue="JUnit.AIntroduce.test03" />
+        <item itemvalue="JUnit.AIntroduce.test02" />
       </list>
     </recent_temporary>
   </component>
@@ -146,6 +154,7 @@
       <workItem from="1716860497953" duration="813000" />
       <workItem from="1717465742341" duration="12983000" />
       <workItem from="1717489085102" duration="5154000" />
+      <workItem from="1717506102426" duration="4444000" />
     </task>
     <servers />
   </component>

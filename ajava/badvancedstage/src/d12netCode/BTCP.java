@@ -14,8 +14,9 @@ import java.net.Socket;
  * @Description:
  * 实现TCP的网络编程
  *     例子1：客户端发送信息给服务端，服务端将数据显示在控制台上
+ *     ps: 不太想学，看不明白，后期疲惫，这两天能看懂Java的面试题了，需要总结背诵一下
  * @Author Eva
- * @Date 2024/6/4 17:44
+ * @Date 2023/7/6 17:13 -> 2024/6/4 17:44
  */
 public class BTCP {
     @Test
