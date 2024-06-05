@@ -22,10 +22,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2h4jxypG5zFIZuqconf916YJm8R" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -37,7 +37,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/19162/Desktop/gitJava/java/note",
+    "last_opened_file_path": "C:/Users/QMacroQA/Desktop/blinote/ajava",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -51,8 +51,9 @@
       <recent name="C:\Users\QMacroQA\Desktop\blinote\ajava\badvancedstage" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.DFieldTest.test02">
-    <configuration name="AIntroduce.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.HTProxy">
+    <configuration name="HTProxy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="d13reflection.HTProxy" />
       <module name="badvancedstage" />
       <extension name="coverage">
         <pattern>
@@ -60,10 +61,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="d13reflection" />
-      <option name="MAIN_CLASS_NAME" value="d13reflection.AIntroduce" />
-      <option name="METHOD_NAME" value="test02" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -134,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HTProxy" />
         <item itemvalue="JUnit.DFieldTest.test02" />
         <item itemvalue="JUnit.DFieldTest.test01" />
         <item itemvalue="JUnit.BClassLoader.test01" />
         <item itemvalue="JUnit.AIntroduce.test03" />
-        <item itemvalue="JUnit.AIntroduce.test02" />
       </list>
     </recent_temporary>
   </component>
@@ -155,6 +152,7 @@
       <workItem from="1717465742341" duration="12983000" />
       <workItem from="1717489085102" duration="5154000" />
       <workItem from="1717506102426" duration="4444000" />
+      <workItem from="1717578102622" duration="1746000" />
     </task>
     <servers />
   </component>
