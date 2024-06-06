@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ajava.iml" filepath="$PROJECT_DIR$/ajava.iml" />
       <module fileurl="file://$PROJECT_DIR$/badvancedstage/badvancedstage.iml" filepath="$PROJECT_DIR$/badvancedstage/badvancedstage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cprojects/cprojects.iml" filepath="$PROJECT_DIR$/cprojects/cprojects.iml" />
     </modules>
   </component>
 </project>
