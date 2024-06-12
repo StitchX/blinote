@@ -13,14 +13,17 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="AnnotationType" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -61,6 +64,9 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\QMacroQA\Desktop\blinote\ajava\badvancedstage\src" />
       <recent name="C:\Users\QMacroQA\Desktop\blinote\ajava\badvancedstage" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\QMacroQA\Desktop\blinote\ajava\cprojects\src\project03" />
     </key>
   </component>
   <component name="RunManager" selected="Application.HTProxy">
@@ -167,7 +173,7 @@
       <workItem from="1717578102622" duration="1746000" />
       <workItem from="1717660494489" duration="2053000" />
       <workItem from="1718156657114" duration="1673000" />
-      <workItem from="1718178933813" duration="1486000" />
+      <workItem from="1718178933813" duration="5300000" />
     </task>
     <servers />
   </component>
